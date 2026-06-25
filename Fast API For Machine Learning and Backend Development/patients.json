@@ -1,0 +1,23 @@
+{
+  "P101": {
+    "name": "Ali Khan",
+    "age": 25,
+    "gender": "Male",
+    "disease": "Fever",
+    "phone": "03001234567"
+  },
+  "P102": {
+    "name": "Ahmed Raza",
+    "age": 40,
+    "gender": "Male",
+    "disease": "Diabetes",
+    "phone": "03111234567"
+  },
+  "P103": {
+    "name": "Sara Noor",
+    "age": 30,
+    "gender": "Female",
+    "disease": "Asthma",
+    "phone": "03221234567"
+  }
+}
