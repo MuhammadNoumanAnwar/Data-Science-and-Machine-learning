@@ -1,1 +1,1 @@
-This repository includes my tasks projects and solutions related to data scicence and machine learing. 
+I have completed my machine learning journey and worked on algorithms such as K-Nearest Neighbors (KNN) and Decision Tree. I have also developed backend applications using Flask and FastAPI, with a strong focus on AI/ML model development and deployment. My experience includes working with Pydantic and Docker to build scalable and production ready machine learning model applications.
