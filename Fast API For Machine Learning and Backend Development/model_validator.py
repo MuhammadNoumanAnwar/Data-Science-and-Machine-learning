@@ -21,5 +21,8 @@ info = {'name':"npoman" , 'age':20 , 'weight':55 , 'Email':'xyz@icici.com'}
 patient1 = patient(**info)
 
 temp = patient1.model_dump()
+#temp = patient1.model_dump(include=["name","age"])
+#temp = patient1.model_dump(exclude_unset=True)
+#temp = patient1.model_dump(exclude={"name","age", "address": {"city"}})
 #temp = patient1.model_dump_json()
 print(type(temp))
