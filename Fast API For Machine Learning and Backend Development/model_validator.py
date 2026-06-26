@@ -19,3 +19,7 @@ class patient(BaseModel):
 info = {'name':"npoman" , 'age':20 , 'weight':55 , 'Email':'xyz@icici.com'}
 
 patient1 = patient(**info)
+
+temp = patient1.model_dump()
+#temp = patient1.model_dump_json()
+print(type(temp))
